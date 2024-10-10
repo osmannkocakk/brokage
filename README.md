@@ -8,3 +8,12 @@ Api for a brokage firm so that their employees can send, list and delete stock o
 - Spring Boot 3.3.4
 - Maven
 - H2 Database
+
+## Getting Started
+
+### 1. Clone the Project
+
+```bash
+git clone https://github.com/osmannkocakk/brokage.git
+cd brokagefirmchallange
+```
